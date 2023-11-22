@@ -1,1 +1,1 @@
-PS1 = "tirion@app$"
+PS1="tirion@app$"
